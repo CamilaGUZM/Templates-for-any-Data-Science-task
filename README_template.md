@@ -281,7 +281,7 @@ all-contributors init
 
 example add:
 all-contributors add CamilaGUZM code,doc,research
-link: https://www.npmjs.com/package/all-contributors-cli/v/5.6.1#usage
+link to all options: https://www.npmjs.com/package/all-contributors-cli/v/5.6.1#usage
 
 generate, update:
 all-contributors generate
