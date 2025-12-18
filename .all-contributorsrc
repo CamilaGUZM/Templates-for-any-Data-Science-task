@@ -1,0 +1,25 @@
+{
+  "projectName": "Templates-for-any-Data-Science-task",
+  "projectOwner": "CamilaGUZM",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README_template.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "CamilaGUZM",
+      "name": "Sarah Camila Guzmán Fierro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141757082?v=4",
+      "profile": "https://github.com/CamilaGUZM",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}

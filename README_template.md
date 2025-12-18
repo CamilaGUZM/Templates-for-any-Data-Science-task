@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- BADGES -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -63,7 +66,15 @@ brief, one paragraph at most, description of what the project is about
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-<!-- HOW TO: -->
+<!-- HOW TO: 
+install:
+
+npm install -g doctoc
+
+in terminal:
+npx doctoc README.md
+
+-->
 
 ---
 
@@ -246,21 +257,9 @@ The main technologies and tools used in this project include:
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CamilaGUZM"><img src="https://avatars.githubusercontent.com/u/141757082?v=4?s=100" width="100px;" alt="Sarah Camila Guzmán Fierro"/><br /><sub><b>Sarah Camila Guzmán Fierro</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Behavioral-Analysis-using-Markov-Chains/commits?author=CamilaGUZM" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Alfredo-jalt"><img src="https://avatars.githubusercontent.com/u/178847229?v=4?s=100" width="100px;" alt="José Alfredo López Torres"/><br /><sub><b>José Alfredo López Torres</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Behavioral-Analysis-using-Markov-Chains/commits?author=Alfredo-jalt" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JuanPabloDP"><img src="https://avatars.githubusercontent.com/u/170148293?v=4?s=100" width="100px;" alt="Juan Pablo De La Peña"/><br /><sub><b>Juan Pablo De La Peña</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Behavioral-Analysis-using-Markov-Chains/commits?author=JuanPabloDP" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xGonks"><img src="https://avatars.githubusercontent.com/u/139012808?v=4?s=100" width="100px;" alt="Gonzalo Makenly Higuera Inzunza"/><br /><sub><b>Gonzalo Makenly Higuera Inzunza</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Behavioral-Analysis-using-Markov-Chains/commits?author=xGonks" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CamilaGUZM"><img src="https://avatars.githubusercontent.com/u/141757082?v=4?s=100" width="100px;" alt="Sarah Camila Guzmán Fierro"/><br /><sub><b>Sarah Camila Guzmán Fierro</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Templates-for-any-Data-Science-task/commits?author=CamilaGUZM" title="Code">💻</a></td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
-  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
@@ -270,8 +269,29 @@ The main technologies and tools used in this project include:
 
 
 
-<!-- HOW TO: -->
 
+<!-- HOW TO:
+
+In terminal:
+npm install -g all-contributors-cli
+
+check:
+all-contributors --version
+
+initialize:
+all-contributors init
+
+
+example add:
+all-contributors add CamilaGUZM code doc research
+
+generate, update:
+all-contributors generate
+
+commit
+
+
+ -->
 
 <div align="center" style="font-size: 2.5rem;">
   ⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄⠄⠂☆
