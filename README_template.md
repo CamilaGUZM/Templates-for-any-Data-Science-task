@@ -254,7 +254,7 @@ The main technologies and tools used in this project include:
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CamilaGUZM"><img src="https://avatars.githubusercontent.com/u/141757082?v=4?s=100" width="100px;" alt="Sarah Camila Guzmán Fierro"/><br /><sub><b>Sarah Camila Guzmán Fierro</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Templates-for-any-Data-Science-task/commits?author=CamilaGUZM" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CamilaGUZM"><img src="https://avatars.githubusercontent.com/u/141757082?v=4?s=100" width="100px;" alt="Sarah Camila Guzmán Fierro"/><br /><sub><b>Sarah Camila Guzmán Fierro</b></sub></a><br /><a href="https://github.com/CamilaGUZM/Templates-for-any-Data-Science-task/commits?author=CamilaGUZM" title="Code">💻</a> <a href="https://github.com/CamilaGUZM/Templates-for-any-Data-Science-task/commits?author=CamilaGUZM" title="Documentation">📖</a> <a href="#design-CamilaGUZM" title="Design">🎨</a> <a href="#translation-CamilaGUZM" title="Translation">🌍</a></td>
     </tr>
   </tbody>
 </table>

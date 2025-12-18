@@ -16,7 +16,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/141757082?v=4",
       "profile": "https://github.com/CamilaGUZM",
       "contributions": [
-        "code","doc", "design", "translation"
+        "code",
+        "doc",
+        "design",
+        "translation"
       ]
     }
   ],
